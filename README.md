@@ -1,6 +1,10 @@
 # Custom Tooltip PCF Component
 
+![Tooltip Preview](./Tooltip.png)
+
 A customizable Power Apps Component Framework (PCF) control that provides a rich, multi-line tooltip triggered by a button. Built with **React** and **Fluent UI 9**.
+
+
 
 ## Features
 
